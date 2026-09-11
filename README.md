@@ -54,7 +54,7 @@ It includes detailed information on:
 
     - 🛠️ data_job_skills
 
-        ![2_Project_Analysis_Screenshot2.png](/0_Resources/Images/2_Project_Analysis_Screenshot2.png)
+        ![2_Project_Analysis_Screenshot2.png](Images2/2_Project_Analysis_Screenshot2.png)
 
 #### 🔗 Load
 
