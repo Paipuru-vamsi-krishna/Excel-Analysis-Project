@@ -61,7 +61,7 @@ It includes detailed information on:
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
     - 📊 data_jobs_all
 
-        ![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot3.png)
+        ![2_Project_Analysis_Screenshot3.png](Images2/2_Project_Analysis_Screenshot3.png)
 
     - 🛠️ data_job_skills
 
