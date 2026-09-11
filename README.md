@@ -129,7 +129,7 @@ It includes detailed information on:
 
 - I created a relationship between my two tables using the `job_id` column.
 
-    ![2_Project_Analysis_Screenshot5.png](/0_Resources/Images/2_Project_Analysis_Screenshot5.png)
+    ![2_Project_Analysis_Screenshot5.png](Images2/2_Project_Analysis_Screenshot5.png)
 
 #### 📃 Power Pivot Menu
 
