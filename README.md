@@ -135,7 +135,7 @@ It includes detailed information on:
 
 - The Power Pivot menu was used to refine my data model and makes it easy to create measures.
 
-    ![2_Project_Analysis_Screenshot6.png](/0_Resources/Images/2_Project_Analysis_Screenshot6.png)
+    ![2_Project_Analysis_Screenshot6.png](Images2/2_Project_Analysis_Screenshot6.png)
 
 ### 📊Analysis
 
